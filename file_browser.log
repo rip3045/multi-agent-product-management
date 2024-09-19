@@ -1,0 +1,35 @@
+2024-09-19 08:49:01,766 - INFO - Selected folder: C:/Users/glen.merritt/Documents
+2024-09-19 08:49:01,767 - INFO - Found 1 SolidWorks part files in folder: C:/Users/glen.merritt/Documents
+2024-09-19 08:49:01,767 - INFO - Found 1 SolidWorks part files:
+2024-09-19 08:49:01,767 - DEBUG - SolidWorks part file: C:/Users/glen.merritt/Documents\topology_test.SLDPRT
+2024-09-19 08:49:22,985 - INFO - Selected folder: C:/Users/glen.merritt/Desktop/PSA_designs
+2024-09-19 08:49:22,986 - INFO - Found 28 SolidWorks part files in folder: C:/Users/glen.merritt/Desktop/PSA_designs
+2024-09-19 08:49:22,987 - INFO - Found 28 SolidWorks part files:
+2024-09-19 08:49:22,996 - DEBUG - SolidWorks part file: C:/Users/glen.merritt/Desktop/PSA_designs\90131A102_Abrasion-Resistant Cushioning Washer.SLDPRT
+2024-09-19 08:49:22,996 - DEBUG - SolidWorks part file: C:/Users/glen.merritt/Desktop/PSA_designs\90447A990_High-Strength Class 10.9 Steel Hex Head Screw_m16x2x55.SLDPRT
+2024-09-19 08:49:22,996 - DEBUG - SolidWorks part file: C:/Users/glen.merritt/Desktop/PSA_designs\91290A428_Alloy Steel Socket Head Screw_m8_12_9_grade_20.SLDPRT
+2024-09-19 08:49:22,996 - DEBUG - SolidWorks part file: C:/Users/glen.merritt/Desktop/PSA_designs\91290A850_Alloy Steel Socket Head Screw_m20x2_5x50.SLDPRT
+2024-09-19 08:49:22,996 - DEBUG - SolidWorks part file: C:/Users/glen.merritt/Desktop/PSA_designs\91310A149_High-Strength Class 10.9 Steel Hex Head Screw_m16x2x25.SLDPRT
+2024-09-19 08:49:22,996 - DEBUG - SolidWorks part file: C:/Users/glen.merritt/Desktop/PSA_designs\91310A842_High-Strength Class 10.9 Steel Hex Head Screw_m16x2x50.SLDPRT
+2024-09-19 08:49:22,996 - DEBUG - SolidWorks part file: C:/Users/glen.merritt/Desktop/PSA_designs\91595A156_Dowel Pin_m8_8.SLDPRT
+2024-09-19 08:49:22,996 - DEBUG - SolidWorks part file: C:/Users/glen.merritt/Desktop/PSA_designs\91595A548_Dowel Pin_m8_12.SLDPRT
+2024-09-19 08:49:22,996 - DEBUG - SolidWorks part file: C:/Users/glen.merritt/Desktop/PSA_designs\91595A636_m10_16_Dowel Pin.SLDPRT
+2024-09-19 08:49:22,998 - DEBUG - SolidWorks part file: C:/Users/glen.merritt/Desktop/PSA_designs\91595A638_m10_18_Dowel Pin.SLDPRT
+2024-09-19 08:49:22,998 - DEBUG - SolidWorks part file: C:/Users/glen.merritt/Desktop/PSA_designs\92240A108_18-8 Stainless Steel Hex Head Screw_0_25_in_28.SLDPRT
+2024-09-19 08:49:22,998 - DEBUG - SolidWorks part file: C:/Users/glen.merritt/Desktop/PSA_designs\92314A153_18-8 Stainless Steel Hex Head Screws.SLDPRT
+2024-09-19 08:49:22,998 - DEBUG - SolidWorks part file: C:/Users/glen.merritt/Desktop/PSA_designs\92635A633_Square-Head Extended-Tip Set Screw_m20x60.SLDPRT
+2024-09-19 08:49:22,998 - DEBUG - SolidWorks part file: C:/Users/glen.merritt/Desktop/PSA_designs\98687A326_General Purpose Steel Washer_m20.SLDPRT
+2024-09-19 08:49:22,999 - DEBUG - SolidWorks part file: C:/Users/glen.merritt/Desktop/PSA_designs\98880A128_Grade 5 Steel Stud Anchors for Concrete 1_4x5_1_4.SLDPRT
+2024-09-19 08:49:22,999 - DEBUG - SolidWorks part file: C:/Users/glen.merritt/Desktop/PSA_designs\calibration_board_bracket.SLDPRT
+2024-09-19 08:49:22,999 - DEBUG - SolidWorks part file: C:/Users/glen.merritt/Desktop/PSA_designs\calibration_board_mock_up.SLDPRT
+2024-09-19 08:49:22,999 - DEBUG - SolidWorks part file: C:/Users/glen.merritt/Desktop/PSA_designs\calibration_jig.SLDPRT
+2024-09-19 08:49:22,999 - DEBUG - SolidWorks part file: C:/Users/glen.merritt/Desktop/PSA_designs\MJM7Z8740.SLDPRT
+2024-09-19 08:49:22,999 - DEBUG - SolidWorks part file: C:/Users/glen.merritt/Desktop/PSA_designs\MJMW10Y91.SLDPRT
+2024-09-19 08:49:22,999 - DEBUG - SolidWorks part file: C:/Users/glen.merritt/Desktop/PSA_designs\MJMZ7Y881.SLDPRT
+2024-09-19 08:49:22,999 - DEBUG - SolidWorks part file: C:/Users/glen.merritt/Desktop/PSA_designs\MJPXY4W6Z.SLDPRT
+2024-09-19 08:49:23,000 - DEBUG - SolidWorks part file: C:/Users/glen.merritt/Desktop/PSA_designs\robot_base.SLDPRT
+2024-09-19 08:49:23,000 - DEBUG - SolidWorks part file: C:/Users/glen.merritt/Desktop/PSA_designs\~$calibration_board_bracket.SLDPRT
+2024-09-19 08:49:23,000 - DEBUG - SolidWorks part file: C:/Users/glen.merritt/Desktop/PSA_designs\~$calibration_jig.SLDPRT
+2024-09-19 08:49:23,000 - DEBUG - SolidWorks part file: C:/Users/glen.merritt/Desktop/PSA_designs\gripper_accel_mitigation_concept\spring_plate.SLDPRT
+2024-09-19 08:49:23,000 - DEBUG - SolidWorks part file: C:/Users/glen.merritt/Desktop/PSA_designs\M-710iC_45M_Step203\M-710iC45M.SLDPRT
+2024-09-19 08:49:23,000 - DEBUG - SolidWorks part file: C:/Users/glen.merritt/Desktop/PSA_designs\MVG400X320Z02VS32JKXHXSP3106_A\MVG400X320Z02VS32JKXHXSP3106_A.SLDPRT
