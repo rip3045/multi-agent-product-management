@@ -19,8 +19,7 @@ This system is designed to automate several roles in product management and soft
 - Code Reviewer Agent
 - Product Manager Agent
 - Software Architect Agent
-- File Browser Agent
-- Team Agents
+
 
 These agents interact with each other to simulate real-world project development, ensuring all components (code, documentation, architecture, etc.) are aligned.
 
